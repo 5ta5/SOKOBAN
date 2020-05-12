@@ -1,0 +1,3 @@
+/home/stas/GIT/SOKOBAN/CMakeFiles/rebuild_cache.dir
+/home/stas/GIT/SOKOBAN/CMakeFiles/edit_cache.dir
+/home/stas/GIT/SOKOBAN/CMakeFiles/sokoban.dir

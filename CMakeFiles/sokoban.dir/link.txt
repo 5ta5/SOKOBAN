@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sokoban.dir/source.cpp.o  -o sokoban  -lsfml-graphics -lsfml-window -lsfml-system 

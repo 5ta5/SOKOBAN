@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.10)
+project(SOKOBAN)
+
+set(CMAKE_CXX_STANDARD 17)
+
+file( GLOB SRC "source/*.cpp")
+file( GLOB SRC "source.cpp")
+include_directories(include)
+
+
+add_executable(yourProj ${SRC})
+
+add_executable(sokoban source.cpp)
+target_link_libraries(sokoban PRIVATE -lsfml-graphics -lsfml-window -lsfml-system)
