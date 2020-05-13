@@ -9,4 +9,6 @@ TO RUN THE PROJECT:
 or
 5. ./sokoban-multiplayer if you are not able to defeat the levels on your own... or if anyone wants to play that old game with your
 
+![alt text](https://github.com/5ta5/SOKOBAN/blob/master/big_sokoban.png)
+
 i downloaded the levels from http://www.sneezingtiger.com/sokoban/levels.html
